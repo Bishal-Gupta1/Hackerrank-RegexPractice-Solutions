@@ -5,7 +5,7 @@
 **This repositry contains solution of all Regex practice Questions from
 Hackerrank.**
 
-Solutions are coded using Java 8
+_**Solutions are coded using Java 8**_
 
 ## Introduction
 S.No   |  Challanges | Solutions
