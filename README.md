@@ -1,5 +1,5 @@
-                                                     
-# Hackerank-RegexPractice-Solutions
+[<p align="center"><img  src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg" width="300" height="90"></p>](https://www.hackerrank.com/bishalgupta7?hr_r=1)                                                    
+<h1 align="center">Hackerank-RegexPractice-Solutions</h1>
 
 
 **This repositry contains solution of all Regex practice Questions from
