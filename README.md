@@ -66,7 +66,7 @@ S.No   |  Challanges | Solutions
 2.|Detect HTML Tags|[solution.java](https://github.com/Bishal-Gupta1/Hackerrank-RegexPractice-Solutions/blob/main/RegexPracitce_AllSolution/7_Applications/Detect%20HTML%20Tags.java)
 3.|Find A Sub-Word|[solution.java](https://github.com/Bishal-Gupta1/Hackerrank-RegexPractice-Solutions/blob/main/RegexPracitce_AllSolution/7_Applications/Find%20A%20Sub-Word.java)
 4.|Alien Username|[solution.java](https://github.com/Bishal-Gupta1/Hackerrank-RegexPractice-Solutions/blob/main/RegexPracitce_AllSolution/7_Applications/Alien%20Username.java)
-5.|IP Address Validation|[solution.java]()
+5.|IP Address Validation|[solution.java](https://github.com/Bishal-Gupta1/Hackerrank-RegexPractice-Solutions/blob/main/RegexPracitce_AllSolution/7_Applications/IP%20Address%20Validation.java)
 6.|Find a Word|[solution.java](https://github.com/Bishal-Gupta1/Hackerrank-RegexPractice-Solutions/blob/main/RegexPracitce_AllSolution/7_Applications/Find%20a%20Word.java)
 7.|Detect the Email Addresses|[solution.java](https://github.com/Bishal-Gupta1/Hackerrank-RegexPractice-Solutions/blob/main/RegexPracitce_AllSolution/7_Applications/Detect%20the%20Email%20Addresses.java)
 8.|Detect the Domain Name|[solution.java](https://github.com/Bishal-Gupta1/Hackerrank-RegexPractice-Solutions/blob/main/RegexPracitce_AllSolution/7_Applications/Detect%20the%20Domain%20Name.java)
