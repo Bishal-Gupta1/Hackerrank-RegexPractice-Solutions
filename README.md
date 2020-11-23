@@ -2,9 +2,6 @@
 <h1 align="center">Hackerank-RegexPractice-Solutions</h1>
 
 
-**This repositry contains solution of all Regex practice Questions from
-Hackerrank.**
-
 _\*Solutions are coded using Java 8_
 
 ## Introduction
