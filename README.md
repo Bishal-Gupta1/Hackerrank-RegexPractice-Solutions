@@ -76,7 +76,7 @@ S.No   |  Challanges | Solutions
 15.|Find HackerRank|[solution.java](https://github.com/Bishal-Gupta1/Hackerrank-RegexPractice-Solutions/blob/main/RegexPracitce_AllSolution/7_Applications/Find%20HackerRank.java)
 16.|Saying Hi|[solution.java](https://github.com/Bishal-Gupta1/Hackerrank-RegexPractice-Solutions/blob/main/RegexPracitce_AllSolution/7_Applications/Saying%20Hi.java)
 17.|HackerRank Language|[solution.java](https://github.com/Bishal-Gupta1/Hackerrank-RegexPractice-Solutions/blob/main/RegexPracitce_AllSolution/7_Applications/HackerRank%20Language.java)
-18.|Building a Smart IDE: Programming Language Detection|[solution.java](https://github.com/Bishal-Gupta1/Hackerrank-RegexPractice-Solutions/blob/main/RegexPracitce_AllSolution/7_Applications/Building%20a%20Smart%20IDE%20:%20Programming%20Language%20Detection.java)
+18.|Building a Smart IDE: Programming Language Detection|[solution.java](https://github.com/Bishal-Gupta1/Hackerrank-RegexPractice-Solutions/blob/main/RegexPracitce_AllSolution/7_Applications/Building%20a%20Smart%20IDE%20%3B%20Programming%20Language%20Detection.java)
 19.|Split the Phone Numbers|[solution.java](https://github.com/Bishal-Gupta1/Hackerrank-RegexPractice-Solutions/blob/main/RegexPracitce_AllSolution/7_Applications/Split%20the%20Phone%20Numbers.java)
 20.|Detect HTML Attributes|[solution.java](https://github.com/Bishal-Gupta1/Hackerrank-RegexPractice-Solutions/blob/main/RegexPracitce_AllSolution/7_Applications/Detect%20HTML%20Attributes.java)
 21.|The British and American Style of Spelling|[solution.java](https://github.com/Bishal-Gupta1/Hackerrank-RegexPractice-Solutions/blob/main/RegexPracitce_AllSolution/7_Applications/The%20British%20and%20American%20Style%20of%20Spelling.java)
