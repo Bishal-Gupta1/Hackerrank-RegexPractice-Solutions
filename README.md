@@ -83,7 +83,8 @@ S.No   |  Challanges | Solutions
 22.|UK and US: Part 2|[solution.java](https://github.com/Bishal-Gupta1/Hackerrank-RegexPractice-Solutions/blob/main/RegexPracitce_AllSolution/7_Applications/UK%20and%20US%20Part%202.java)
 
 
-
+_resources:_
+i)[Oracle](https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html)
 
 
 
