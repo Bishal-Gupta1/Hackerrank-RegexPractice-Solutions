@@ -1,7 +1,9 @@
 [<p align="center"><img  src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg" width="300" height="90"></p>](https://www.hackerrank.com/bishalgupta7?hr_r=1)                                                    
 <h1 align="center">Hackerank-RegexPractice-Solutions</h1>
 
+_Resources:_
 
+i)[Oracle](https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html)
 _\*Solutions are coded using Java 8_
 
 ## Introduction
@@ -83,8 +85,7 @@ S.No   |  Challanges | Solutions
 22.|UK and US: Part 2|[solution.java](https://github.com/Bishal-Gupta1/Hackerrank-RegexPractice-Solutions/blob/main/RegexPracitce_AllSolution/7_Applications/UK%20and%20US%20Part%202.java)
 
 
-_resources:_
-i)[Oracle](https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html)
+
 
 
 
